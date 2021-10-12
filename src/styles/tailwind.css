@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.13.0/css/all.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* swal2-container swal2-top-end swal2-backdrop-show */
+/* .swal2-container, .swal2-top-end, .swal2-backdrop-show {
+    z-index: 9999999 !important;
+} */
+
+/* body.swal2-toast-shown .swal2-container {
+    position: fixed;
+    z-index: 9999999 !important;
+}
+
+.swal2-container.swal2-backdrop-show, .swal2-container.swal2-noanimation{
+    z-index: 9999999 !important;
+    position: fixed;
+} */
